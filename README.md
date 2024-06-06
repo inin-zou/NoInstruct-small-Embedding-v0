@@ -1,3 +1,5 @@
+![benchmark](https://raw.githubusercontent.com/inin-zou/NoInstruct-small-Embedding-v0/main/images/benchmark_NoInstruct-small-Embedding-v0.png)
+
 ---
 language:
 - en
